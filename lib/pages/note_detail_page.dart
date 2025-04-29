@@ -367,8 +367,7 @@ class NoteDetailPage extends StatelessWidget {
                 if (onDelete != null) {
                   onDelete!();
                 }
-                Navigator.pop(
-                    context, true); // Return true to indicate deletion
+                Navigator.pop(context, true);
               },
               child: const Text('Delete'),
             ),
