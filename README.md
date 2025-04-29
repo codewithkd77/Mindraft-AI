@@ -3,8 +3,8 @@
 🤖 AI-powered note-taking app that generates structured notes from text, images, PDFs, and YouTube videos.
 
 ![Alt text](https://github.com/codewithkd77/Mindraft-AI/blob/main/banner1.jpeg?raw=true)
-![Alt text](https://raw.githubusercontent.com/codewithkd77/technews-flutter/refs/heads/main/banner.jpeg)
-![Alt text](https://raw.githubusercontent.com/codewithkd77/technews-flutter/refs/heads/main/banner.jpeg)
+![Alt text](https://github.com/codewithkd77/Mindraft-AI/blob/main/banner2.jpeg?raw=true)
+![Alt text](https://github.com/codewithkd77/Mindraft-AI/blob/main/banner3.jpeg?raw=true)
 
 🛠️ Tech
 - 📱 Flutter + 🔥 Supabase + 🤖 Google Gemini
