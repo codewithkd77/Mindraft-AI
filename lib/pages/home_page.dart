@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // 
+    // get email address
     final user = Supabase.instance.client.auth.currentUser;
     final email = user?.email ?? 'User';
 
